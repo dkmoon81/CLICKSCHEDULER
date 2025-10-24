@@ -1,0 +1,8 @@
+{
+  "admin": { "username": "admin", "password": "changeme" },
+  "jwtSecret": "replace-with-a-secret",
+  "port": 4000,
+  "runTimeoutSeconds": 60,
+  "minFrequencySeconds": 30,
+  "puppeteer": { "headless": true }
+}
